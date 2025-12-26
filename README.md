@@ -29,7 +29,7 @@ Stargate rejects the standard "Input-Output" pipeline in favor of a biological *
 I am currently looking for partners or organizations interested in acquiring this IP to apply it to real-world hardware.
 
 *   **Full Source Code:** Available upon request.
-*   **Technical Whitepaper:** [Link to your Google Drive PDF]
+*   **Technical Whitepaper:** [Read Full PDF](Project_Stargate_Mk_IV_Technical_Whitepaper.pdf)
 *   **Contact:** [Mubasherikram2020@gmail.com]
 
 ---
