@@ -1,0 +1,17 @@
+# Core ML
+torch>=2.0.0
+numpy>=1.24.0
+
+# Simulation
+# Note: install 'gym[box2d]' or 'gym[mujoco]' depending on your needs
+gym==0.26.2
+opencv-python>=4.7.0
+
+# Data Structures & Utils
+networkx>=3.0
+typing_extensions>=4.5.0
+matplotlib>=3.7.0
+
+# Optional: Visualization & Performance
+tqdm>=4.65.0
+tensorboard>=2.12.0
