@@ -1,10 +1,10 @@
 # Project Stargate (Mk IV)
 ### An Integral-Hybrid Cognitive Architecture for Embodied AGI
 
-![Demo](stargate_recovery_demo.gif)
-
 **Status:** Research Prototype (v4.0.1)  
-**Author:** Mubasher ([@MUbasher2020](https://github.com/MUbasher202))
+**Author:** Mubasher ([@MUbasher2020](https://github.com/MUbasher2020))
+
+![Demo](stargate_recovery_demo.gif)
 
 ## 🚀 The Breakthrough
 Stargate is a bio-inspired cognitive architecture designed to solve the **Sample Efficiency** problem in robotic control. 
